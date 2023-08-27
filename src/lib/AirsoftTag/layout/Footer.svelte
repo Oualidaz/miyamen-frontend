@@ -1,5 +1,5 @@
 <footer
-  class=" mt-auto bottom-0 flex flex-col gap-4 bg-white px-4 lg:px-12 pt-12 w-screen"
+  class=" mt-auto bottom-0 flex flex-col gap-4 bg-[#1d1e21] text-neutral-300 px-4 lg:px-12 pt-12 w-screen"
 >
   <div>
     <nav

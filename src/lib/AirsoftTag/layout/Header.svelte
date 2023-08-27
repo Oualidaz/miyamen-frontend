@@ -1,5 +1,5 @@
 <header
-  class="bg-white h-min-full py-9 px-12 shadow-md"
+  class="sticky top-0 bg-[#1d1e21] text-neutral-300 h-min-full py-9 px-12 shadow-md"
 >
   <nav
     class="flex gap-5 "
