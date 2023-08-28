@@ -7,7 +7,7 @@
 
 
 <div
-  class="bg-neutral-300 flex flex-col min-h-screen"
+  class="bg-[#1d1e21] flex flex-col min-h-screen"
 >
   <Header />
   <slot />
